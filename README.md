@@ -2,12 +2,17 @@
 
 I am Rajat Gangwar residing in India and currently a B-Tech Undergraduate from MNNIT, Prayagraj, UP.
 
-<a href="https://www.linkedin.com/in/rajatgangwar41/">
+<a href="https://www.linkedin.com/in/rajatgangwar41/" >
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
-</a> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a><a href="[https://www.linkedin.com/in/rajatgangwar41/](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
 
 # ⚡ Tools,Technologies and Databases
 
