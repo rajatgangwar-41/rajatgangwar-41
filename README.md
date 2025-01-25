@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rajat Gangwar residing in India and currently a B-Tech Undergraduate from MNNIT, Prayagraj, UP.
+I am Rajat Gangwar residing in India and a B-Tech Undergraduate from MNNIT, Prayagraj, UP.
 
 <a href="https://www.linkedin.com/in/rajatgangwar41/" >
   <img
