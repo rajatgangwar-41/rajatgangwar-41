@@ -10,13 +10,15 @@
 
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajatgangwar-41&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" height="30px"/> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajatgangwar-41&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" height="30px"/> </p> -->
 
 ## 🏆 GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatgangwar-41&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="rajatgangwar-41" /></a>
 
-## 🧑‍🦱 About Me
+## 🧑‍🦱 About Me <img src="https://komarev.com/ghpvc/?username=rajatgangwar-41&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 20px; vertical-align: bottom;" />
+
+
 
 👋 Hello, I am Rajat Gangwar — someone who values simplicity, creativity, and finding balance between hustle and peace.
 
