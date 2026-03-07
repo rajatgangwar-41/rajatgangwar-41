@@ -135,7 +135,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatgangwar-41&theme=github)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatgangwar-41&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/rajatgangwar-41/github-readme-activity-graph)
+[![Rajat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatgangwar-41&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/rajatgangwar-41/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
