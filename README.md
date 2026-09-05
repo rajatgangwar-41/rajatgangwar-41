@@ -14,8 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatgangwar-41&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="rajatgangwar-41" /></a> -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=rajatgangwar-41&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="rajatgangwar-41" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=rajatgangwar-41&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="rajatgangwar-41" /></a>
 
 ## 🧑‍🦱 About Me <img src="https://komarev.com/ghpvc/?username=rajatgangwar-41&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 20px; vertical-align: bottom;" />
 
@@ -125,17 +124,16 @@
 
 ## 📊 Github Statistics
 
-![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=rajatgangwar-41&show_icons=true&theme=radical)
+![My GitHub statistics](https://github-stats-extended.vercel.app/api?username=rajatgangwar-41&show_icons=true&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajatgangwar-41&theme=radical&hide_border=false)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatgangwar-41&layout=compact&theme=radicle)](https://github.com/rajatgangwar-41/github-readme-stats) -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatgangwar-41&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="rajatgangwar-41" height="192px"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajatgangwar-41&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajatgangwar-41" height="192px"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatgangwar-41&theme=github)
 
-[![Rajat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatgangwar-41&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/rajatgangwar-41/github-readme-activity-graph)
+<!-- github-readme-activity-graph.vercel.app is currently returning 402 (public demo over its Vercel usage cap) with no maintained drop-in mirror available; re-add once it recovers or self-host: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- [![Rajat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatgangwar-41&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/rajatgangwar-41/github-readme-activity-graph) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
