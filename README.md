@@ -4,6 +4,10 @@
 
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+SaaS+Product+Builder;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
 <h3 align="center">
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajatgangwar-41&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
@@ -30,6 +34,15 @@
 ✨ Fun Fact: I sometimes name my projects like they’re superhero missions—because every bug fix feels like saving the world 🦸‍♂️
 
 👨‍💻 You can find all of my work and projects here https://rajatgangwar.netlify.app.
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Echo](https://github.com/rajatgangwar-41/Project_Next_BP-Echo) | B2B chatbot & voice platform — Next.js SaaS product built as a monorepo |
+| [Vibe](https://github.com/rajatgangwar-41/Project_Next_BP-Vibe) | AI coding sandbox with AI-powered code generation, in a familiar editor-like environment |
+| [Pixxel](https://github.com/rajatgangwar-41/Project_Next_BP-Pixxel) | AI-powered image editing SaaS |
+| [Aeris](https://github.com/rajatgangwar-41/Project_Next_BP-Aeris) | Email productivity SaaS for managing your inbox with ease |
 
 ## 🌐 Connect With Me
 
@@ -128,12 +141,18 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajatgangwar-41&theme=radical&hide_border=false)
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajatgangwar-41&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajatgangwar-41" height="192px"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajatgangwar-41&show_icons=true&locale=en&layout=compact&theme=radical&card_width=500&langs_count=10" alt="rajatgangwar-41" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatgangwar-41&theme=github)
 
 <!-- github-readme-activity-graph.vercel.app is currently returning 402 (public demo over its Vercel usage cap) with no maintained drop-in mirror available; re-add once it recovers or self-host: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- [![Rajat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatgangwar-41&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/rajatgangwar-41/github-readme-activity-graph) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatgangwar-41/rajatgangwar-41/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatgangwar-41/rajatgangwar-41/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajatgangwar-41/rajatgangwar-41/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
